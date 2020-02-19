@@ -34,7 +34,7 @@ Because the Machine Learning library used requires Python 3, and ROS only suppor
 A sample launch file, `drift_racer.launch` has been included, which will allow the robot to be controlled using the provided Logitech controller. You can use this as a starting point to creating your own launch files, which will surely contain more nodes than that shown.
 
 ## Useful Links
-1. Install ROS on Raspberry Pi 4: https://www.seeedstudio.com/blog/2019/08/01/installing-ros-melodic-on-raspberry-pi-4-and-rplidar-a1m8/. Credits: Dmitry Maslov, who authored the instructions. Note that you will only need to complete up to step 3 to install ROS.
+1. Install ROS on Raspberry Pi 4: https://www.seeedstudio.com/blog/2019/08/01/installing-ros-melodic-on-raspberry-pi-4-and-rplidar-a1m8/. Credits: Dmitry Maslov, who authored the instructions, and Elaine Wu. Note that you will only need to complete up to step 3 to install ROS.
 
 2. Official ROS Tutorial: http://wiki.ros.org/ROS/Tutorials. While having a good understanding of ROS will prove extremely beneficial, the most important topics to understand well are 3, 4, 5, 6, 8, 12, and 13 of the Beginner Level section.
 
