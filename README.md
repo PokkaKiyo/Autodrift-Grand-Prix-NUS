@@ -10,9 +10,6 @@ TODO
 
 {% include youtube.html id="JbdmZDMvEMo" %}
 
-{% include youtube.html id="phd6GXK62Qk" %}
-
-
 ### For Competitors
 Some source code for competitors to help kickstart their programming can be found on the official GitHub Repository [here](https://github.com/PokkaKiyo/Autodrift-Grand-Prix-NUS)
 
