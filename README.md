@@ -4,8 +4,7 @@ This is the homepage of the Autodrift Grand Prix NUS competition!
 
 ### Introduction
 
-The Autodrift Grand Prix NUS is a competition targeted towards NUS School of Computing students.
-It aims to provide competitors with an experiential learning experience: teams will compete in programming a Remote Controlled car to not only complete a race track autonomously, but also to allow the car to perform drifting. Teams will be provided with the stock hardware to achieve this, and need only upload their algorithms.
+The Autodrift Grand Prix NUS is a competition for computer science and computer engineering students. It provides them with an exciting challenge to hone their skills in machine learning. The participating teams compete in programming a drift racing model car to complete a race track autonomously. The teams are provided with stock hardware and the winner is the autonomous drift driving algorithm that completes the track the fastest.
 
 ### Video Demos
 The following videos demonstrate a possible approach achieved with the use of Machine Learning.
