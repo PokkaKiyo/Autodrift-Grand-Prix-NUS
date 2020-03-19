@@ -10,7 +10,7 @@ It aims to provide competitors with an experiential learning experience: teams w
 ### Video Demos
 The following videos demonstrate a possible approach achieved with the use of Machine Learning.
 
-{% include youtube.html id="JbdmZDMvEMo" %}
+{% include youtube.html id="Pj0B8jCV61k" %}
 
 ### For Competitors
 Some source code for competitors to help kickstart their programming can be found on the official [GitHub Repository](https://github.com/PokkaKiyo/Autodrift-Grand-Prix-NUS).
